@@ -114,10 +114,10 @@ const seedData = async () => {
         longitude: 80.2540,
         address: '25, Sterling Road, Nungambakkam',
         landmark: 'Opposite Loyola College Main Gate',
-        googleMapsUrl: 'https://www.google.com/maps/dir//2+5,+Gopathy+Narayana+Rd,+T.+Nagar,+Chennai,+Tamil+Nadu+600017/@13.0449408,80.19968,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a526656f3050b69:0x944a9f94df8820ee!2m2!1d80.2352884!2d13.0425866?entry=ttu&g_ep=EgoyMDI2MDExMS4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D',
+        googleMapsUrl: 'https://maps.app.goo.gl/o6qrchsDiYPrvR1YA',
         openingHours: { open: '07:00', close: '22:00' },
         contact: { phone: '+91-44-28291234' },
-        images: ['murugan-idli.jpg'],
+        images: ['https://media.assettype.com/tnm/import/sites/default/files/Murugan_Idli_shop_website.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true'],
         menu: [
           {
             category: 'Breakfast',
@@ -151,10 +151,10 @@ const seedData = async () => {
         longitude: 80.2528,
         address: '12, College Road, Nungambakkam',
         landmark: 'Near Loyola College Hostel',
-        googleMapsUrl: 'https://maps.google.com/?q=13.0645,80.2528',
+        googleMapsUrl: 'https://maps.app.goo.gl/1ZsEpJmWMEr6eqgf6',
         openingHours: { open: '11:00', close: '23:00' },
         contact: { phone: '+91-44-28294567' },
-        images: ['https://images.unsplash.com/photo-1767988048897-2dca103ff620?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxM3x8fGVufDB8fHx8fA%3D%3D'],
+        images: ['https://lh5.googleusercontent.com/proxy/JDyn7W3lgbYdHG6N_VnSW8lYIMjwP6165LGm3E2Fi3KlwLR1LU_loDmFj9xnBOfi6I4Nbw9q66ex4RYS6uj22P7HBHl6DQM2e_YOMCyydVp3mnrnkpx5C3_tX_VqElhR'],
         menu: [
           {
             category: 'Main Course',
@@ -187,10 +187,10 @@ const seedData = async () => {
         longitude: 80.2551,
         address: '8, Sterling Road, Nungambakkam',
         landmark: 'Next to ICICI Bank',
-        googleMapsUrl: 'https://maps.google.com/?q=13.0672,80.2551',
+        googleMapsUrl: 'https://maps.app.goo.gl/4kUDw12WRRURobeH7',
         openingHours: { open: '11:00', close: '23:30' },
         contact: { phone: '+91-44-28297890' },
-        images: ['https://images.unsplash.com/photo-1767973419928-11ffdfe630a4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxMnx8fGVufDB8fHx8fA%3D%3D'],
+        images: ['https://media-cdn.tripadvisor.com/media/photo-s/0d/b7/e9/17/zaitoon-chennai-restaurant.jpg'],
         menu: [
           {
             category: 'Arabic',
@@ -222,10 +222,10 @@ const seedData = async () => {
         longitude: 80.2515,
         address: '45, Commander-in-Chief Road, Egmore',
         landmark: 'Near Ethiraj College',
-        googleMapsUrl: 'https://maps.google.com/?q=13.0638,80.2515',
+        googleMapsUrl: 'https://maps.app.goo.gl/WXyeUPgeZNUUN1JBA',
         openingHours: { open: '06:00', close: '23:00' },
         contact: { phone: '+91-44-28291234' },
-        images: ['sangeetha.jpg'],
+        images: ['https://lh3.googleusercontent.com/kdo5SgGMngdZXD9WemU4s7myQECMfO_H3ELuRMlaH_oSENdEpNvGoIoq55QibvovOnMVESr6vWNJ7lQbiBPfhzNT8emP6U5vID-b1SY=w1200-rw'],
         menu: [
           {
             category: 'Breakfast',
@@ -257,10 +257,10 @@ const seedData = async () => {
         longitude: 80.2567,
         address: '3rd Floor, Express Avenue Mall, White\'s Road',
         landmark: 'Express Avenue Mall',
-        googleMapsUrl: 'https://maps.google.com/?q=13.0681,80.2567',
+        googleMapsUrl: 'https://maps.app.goo.gl/RF1hjmG6KeuVWkLw9',
         openingHours: { open: '12:00', close: '23:30' },
         contact: { phone: '+91-44-28294567' },
-        images: ['bbq-nation.jpg'],
+        images: ['https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/8a/4e/66/barbeque-nation-rohini.jpg?w=900&h=500&s=1'],
         menu: [
           {
             category: 'Buffet',
@@ -284,10 +284,10 @@ const seedData = async () => {
         longitude: 80.2501,
         address: '78, Commander-in-Chief Road, Egmore',
         landmark: 'Near Egmore Station',
-        googleMapsUrl: 'https://maps.google.com/?q=13.0623,80.2501',
+        googleMapsUrl: 'https://maps.app.goo.gl/aMVJWaarWMupcwrQ8',
         openingHours: { open: '06:00', close: '22:30' },
         contact: { phone: '+91-44-28297890' },
-        images: ['a2b.jpg'],
+        images: ['https://i.ytimg.com/vi/suwgyPxWQ0k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDnzXlukKxGJmkxruyJSyHZWPuL_Q'],
         menu: [
           {
             category: 'Sweets',
@@ -318,10 +318,10 @@ const seedData = async () => {
         longitude: 80.2549,
         address: '15, Sterling Road, Nungambakkam',
         landmark: 'Opposite Coffee Day',
-        googleMapsUrl: 'https://maps.google.com/?q=13.0658,80.2549',
+        googleMapsUrl: 'https://maps.app.goo.gl/FaxbH6bkh146rJV36',
         openingHours: { open: '10:00', close: '22:00' },
         contact: { phone: '+91-44-28291234' },
-        images: ['chinese-wok.jpg'],
+        images: ['https://media.licdn.com/dms/image/v2/C5622AQH5ClP2mS1fJQ/feedshare-shrink_800/feedshare-shrink_800/0/1663728494019?e=2147483647&v=beta&t=clK2c3O6PboxESRpc0gzza0RdIj7RhrY2eC0wiagNTI'],
         menu: [
           {
             category: 'Noodles',
@@ -353,10 +353,10 @@ const seedData = async () => {
         longitude: 80.2530,
         address: '124, Nungambakkam High Road',
         landmark: 'Near SIET College',
-        googleMapsUrl: 'https://maps.google.com/?q=13.0640,80.2530',
+        googleMapsUrl: 'https://maps.app.goo.gl/e4bCKYLHgVerpB7L6',
         openingHours: { open: '06:00', close: '23:00' },
         contact: { phone: '+91-44-28291111' },
-        images: ['saravana.jpg'],
+        images: ['https://cdn.tasteatlas.com/Images/Restaurants/19e49d9274604f068623801c5debbb2b.jpg?w=600'],
         menu: [
           {
             category: 'Specialties',
@@ -372,7 +372,7 @@ const seedData = async () => {
         likeCount: 245
       },
       {
-        name: 'Noodle Bar',
+        name: 'Noodle Theory',
         description: 'Contemporary Asian eatery with build-your-own noodle bowls and stir-fries.',
         vegFlag: false,
         priceRange: '₹₹',
@@ -381,10 +381,10 @@ const seedData = async () => {
         longitude: 80.2555,
         address: '32, Sterling Road, Nungambakkam',
         landmark: 'Above Cafe Coffee Day',
-        googleMapsUrl: 'https://maps.google.com/?q=13.0665,80.2555',
+        googleMapsUrl: 'https://maps.app.goo.gl/Q1zbqN2PR8jz2oZi7',
         openingHours: { open: '11:00', close: '23:00' },
         contact: { phone: '+91-44-28293333' },
-        images: ['noodle-bar.jpg'],
+        images: ['https://lh3.googleusercontent.com/p/AF1QipMvtp_3wdL-jsD90HC3HVmQnMV8D9CJTa68D9ni=w408-h272-k-no'],
         menu: [
           {
             category: 'Noodle Bowls',
@@ -399,7 +399,7 @@ const seedData = async () => {
         likeCount: 98
       },
       {
-        name: 'The Burger Junction',
+        name: 'The Burgerman',
         description: 'Gourmet burger joint with creative burger combinations and loaded fries.',
         vegFlag: false,
         priceRange: '₹₹',
@@ -408,10 +408,10 @@ const seedData = async () => {
         longitude: 80.2560,
         address: '18, College Road, Nungambakkam',
         landmark: 'Near Loyola College Auditorium',
-        googleMapsUrl: 'https://maps.google.com/?q=13.0670,80.2560',
+        googleMapsUrl: 'https://maps.app.goo.gl/qoY1hPmfM48h6gBs7',
         openingHours: { open: '12:00', close: '23:00' },
         contact: { phone: '+91-44-28294444' },
-        images: ['burger-junction.jpg'],
+        images: ['https://b.zmtcdn.com/data/pictures/9/20143879/f2ae33e55ff874e1f21cac8d37ac1f68.jpg?fit=around|960:500&crop=960:500;*,*'],
         menu: [
           {
             category: 'Burgers',
