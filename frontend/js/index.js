@@ -86,7 +86,7 @@ function createPlaceCard(place) {
   // Create card content
   card.innerHTML = `
     <div class="card-img">
-    <img src="${place.images[0]}" />
+    <img src="${place.images?.[0] || 'assets/images/default-food.jpg'}" alt="${place.name}" />
     </div>
     <div class="card-content">
       <div class="card-header" style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.75rem;">
